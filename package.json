@@ -1,0 +1,22 @@
+{
+  "name": "graphql-multiservices",
+  "version": "1.0.0",
+  "description": "graphql-wrapper-multiservices",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avoltis/cleanmultiservices-graphql.git"
+  },
+  "keywords": [
+    "graphql-orm"
+  ],
+  "author": "Voltis Agolli",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/avoltis/cleanmultiservices-graphql/issues"
+  },
+  "homepage": "https://github.com/avoltis/cleanmultiservices-graphql#readme"
+}
