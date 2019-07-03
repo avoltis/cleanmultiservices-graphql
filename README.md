@@ -1,6 +1,6 @@
 # cleanmultiservices-graphql 
 
-DEMO : 
+DEMO : https://cleanmultiservices-graphql.herokuapp.com/
 graphQL layer on top of rest server api 
 restAPI: https://clean-multiservices-restapi.herokuapp.com/
 git rest API: https://github.com/avoltis/clean-multiservices-restAPI
